@@ -1,0 +1,9 @@
+[Core]
+Name = showok
+Module = showok
+
+[Documentation]
+Description = showok.
+
+[Python]
+Version = 2+
