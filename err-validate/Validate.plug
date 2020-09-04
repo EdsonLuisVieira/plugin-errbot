@@ -1,0 +1,9 @@
+[Core]
+Name = Validate
+Module = Validate
+
+[Documentation]
+Description = Plugin validate.
+
+[Python]
+Version = 2+
