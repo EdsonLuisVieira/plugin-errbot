@@ -8,4 +8,4 @@ class Showok(BotPlugin):
         return (self.echotext("web"))
  
     def echotext(self, args):
-        return (args)
+        return (args+"valid")
